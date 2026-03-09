@@ -1,0 +1,19 @@
+# Python / Backend
+venv/
+__pycache__/
+*.pyc
+.env
+teluguchat.db
+chroma_db/
+audio_files/
+*.m4a
+*.mp3
+*.wav
+*.webm
+
+# Next.js / Frontend
+node_modules/
+.next/
+out/
+.env.local
+.DS_Store

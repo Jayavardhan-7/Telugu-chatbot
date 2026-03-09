@@ -1,0 +1,20 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pydantic
+python-multipart
+# Vector DB and RAG
+chromadb
+langchain
+langchain-community
+langchain-ollama
+sentence-transformers
+# ASR
+transformers
+torch
+torchaudio
+soundfile
+# TTS
+gTTS
+python-dotenv
